@@ -24,7 +24,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <github.global.server>github</github.global.server>
         <java.version>1.8</java.version>
-        <apache.tika.version>1.19</apache.tika.version>
+        <apache.tika.version>1.22</apache.tika.version>
     </properties>
 
     <dependencies>
